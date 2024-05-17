@@ -1,0 +1,13 @@
+{
+  "name": "SPI for ADXL367",
+  "apiVersion": "1.1.0",
+  "author": "ADG(coder panda)",
+  "version": "0.8.0",
+  "description": "takenand updated from Scott Shawcroft for Adafruit",
+  "extensions": {
+    "ADX367_SPI": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "ADX367_SPI_Analyzer.ADXL367Analyzer"
+    }
+  }
+}
